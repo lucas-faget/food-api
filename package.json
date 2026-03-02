@@ -57,6 +57,7 @@
         "@adonisjs/lucid": "^21.6.1",
         "@openfoodfacts/openfoodfacts-nodejs": "^2.0.0-alpha.29",
         "@vinejs/vine": "^3.0.1",
+        "adonis-autoswagger": "^3.73.0",
         "luxon": "^3.7.2",
         "pg": "^8.18.0",
         "reflect-metadata": "^0.2.2"
